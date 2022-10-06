@@ -33,7 +33,7 @@ const swiper = new Swiper('.swiper1', {
   });
   
   
-  // hotel rxpand collapse fun
+  // hotel expand collapase
   const hotelButton = document.querySelector('.hotel-button');
   const hotelCard = document.querySelectorAll('.off');
   const text = hotelButton.innerText;
@@ -51,9 +51,6 @@ const swiper = new Swiper('.swiper1', {
     }
   });
   
-  
-  
-  // 
   const toogleOn = document.querySelector('.toggleOn');
   const toogleClose = document.querySelector('.toggleClose');
   const navbar = document.querySelector('.navbar');
