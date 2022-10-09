@@ -7,17 +7,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <!-- Css Stylesheet -->
-  <link rel="stylesheet" href="/css/style.css" />
-  <link rel="stylesheet" media=" screen and (max-width:768px)" href="/css/mobile.css" />
+  <link rel="stylesheet" href="/form/style.css" />
+  <link rel="stylesheet" media=" screen and (max-width:768px)" href="/form/style.css" />
   <!-- unicons -->
   <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css" />
   <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css" />
 
   <!-- favicon -->
-  <link rel="icon" href="/Imgs/icons/Vector.png" />
+  <link rel="icon" href="/form/icons/Vector.png" />
 
   <!-- script tag -->
-  <script defer src="/JS/script.js"></script>
+  <script defer src="/form/script.js"></script>
 
   <!-- swiper js -->
   <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
@@ -50,7 +50,7 @@
     <header class="header">
       <!-- logo -->
       <div class="logo">
-        <img src="Imgs/Logo/logo.png" alt="2rism" />
+        <img src="/form/Logo/logo.png" alt="2rism" />
       </div>
 
       <!-- navbar -->
@@ -66,7 +66,7 @@
         </ul>
       </nav>
 
-      <a href="form.html" class="GFG">
+      <a href="form.php" class="GFG">
         <strong>Sign up</strong>
       </a>
     </header>
@@ -75,7 +75,7 @@
     <div class="showcase-content">
       <h1>Discover the most engaging places</h1>
       <a href="https://earth.google.com/web/" target="_blank" class="showcase-button">
-        <img src="/Imgs/icons/globe.png" alt="" /> Discover on 3D globe</a>
+        <img src="/form/icons/globe.png" alt="" /> Discover on 3D globe</a>
     </div>
 
   </main>
@@ -178,7 +178,7 @@
     <div class="container">
       <div class="title-container">
         <h2 class="section-title"> Hotels And Restaurants</h2>
-        <div class="section-button hotel-button">view all <img src="/Imgs/icons/bleft.png" alt=""></div>
+        <div class="section-button hotel-button">view all <img src="/form/icons/bleft.png" alt=""></div>
       </div>
       <!-- cards -->
       <div class="hotel-card">
@@ -189,8 +189,8 @@
             src="https://images.unsplash.com/photo-1638796323753-e2dcac2e4eb9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
             alt="" width="320" height="380">
           <h5>Taj Palace</h5>
-          <h6><img src="/Imgs/icons/map-pin-line.png" alt=""> Mumbai, India</h6>
-          <div class="ratings"> <img src="/Imgs/icons/rating=5.png" alt=""></div>
+          <h6><img src="Imgs/icons/map-pin-line.png" alt=""> Mumbai, India</h6>
+          <div class="ratings"> <img src="I/form/icons/rating=5.png" alt=""></div>
         </div>
         <!-- card 2 -->
         <div class="hotel-cards">
@@ -198,8 +198,8 @@
             src="https://images.unsplash.com/photo-1573363059771-8b2b53b492ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
             alt="" width="320" height="380">
           <h5>Rambagh Palace</h5>
-          <h6><img src="/Imgs/icons/map-pin-line.png" alt=""> Jaipur, India</h6>
-          <div class="ratings"> <img src="/Imgs/icons/rating=4.png" alt=""></div>
+          <h6><img src="Imgs/icons/map-pin-line.png" alt=""> Jaipur, India</h6>
+          <div class="ratings"> <img src="/form/icons/rating=4.png" alt=""></div>
         </div>
         <!-- card 3 -->
         <div class="hotel-cards">
@@ -207,8 +207,8 @@
             src="https://images.unsplash.com/photo-1445019980597-93fa8acb246c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80"
             alt="" width="320" height="380">
           <h5>The Oberoi Udaivilas</h5>
-          <h6><img src="/Imgs/icons/map-pin-line.png" alt=""> Udaipur, India</h6>
-          <div class="ratings"> <img src="/Imgs/icons/rating=5.png" alt=""></div>
+          <h6><img src="Imgs/icons/map-pin-line.png" alt=""> Udaipur, India</h6>
+          <div class="ratings"> <img src="/form/icons/rating=5.png" alt=""></div>
         </div>
         <!-- card 4 -->
         <div class="hotel-cards">
@@ -216,8 +216,8 @@
             src="https://images.unsplash.com/photo-1597903206838-8242b8b21b7e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
             alt="" width="320" height="380">
           <h5>Bambolim</h5>
-          <h6><img src="/Imgs/icons/map-pin-line.png" alt=""> Goa, India</h6>
-          <div class="ratings"> <img src="/Imgs/icons/rating=5.png" alt=""></div>
+          <h6><img src="Imgs/icons/map-pin-line.png" alt=""> Goa, India</h6>
+          <div class="ratings"> <img src="/form/icons/rating=5.png" alt=""></div>
         </div>
         <!-- card 5 -->
         <div class="hotel-cards off">
@@ -225,15 +225,15 @@
             src="https://lh3.googleusercontent.com/RLGP3IC2nONdQ9-1Y7OzvHK9xhjElx4fRfZEtyYeEE6gQFRGzm-KTFGaald9fvVPcJIJ1HsKtPeDnIpJ92Ywu4pijrU=w512-rw"
             alt="" width="320" height="380">
           <h5>The Grand Indian Buffet</h5>
-          <h6><img src="/Imgs/icons/map-pin-line.png" alt=""> Jaipur, India</h6>
-          <div class="ratings"> <img src="/Imgs/icons/rating=4.png" alt=""></div>
+          <h6><img src="Imgs/icons/map-pin-line.png" alt=""> Jaipur, India</h6>
+          <div class="ratings"> <img src="/form/icons/rating=4.png" alt=""></div>
         </div>
         <!-- card 6 -->
         <div class="hotel-cards off">
           <img src="https://indianaccent.com/newdelhi/images/gallery-images/26.jpg" alt="" width="320" height="380">
           <h5>Indian Accent</h5>
-          <h6><img src="/Imgs/icons/map-pin-line.png" alt=""> Delhi, India</h6>
-          <div class="ratings"> <img src="/Imgs/icons/rating=5.png" alt=""></div>
+          <h6><img src="Imgs/icons/map-pin-line.png" alt=""> Delhi, India</h6>
+          <div class="ratings"> <img src="/form/icons/rating=5.png" alt=""></div>
         </div>
         <!-- card 7 -->
         <div class="hotel-cards off">
@@ -241,8 +241,8 @@
             src="https://lh3.googleusercontent.com/Kh9KQfOs16j6gkPAgNUOYXLc-NxvU2xxm37JDEgdaGOil6yUGQb_P4tKgXCYKOLnSrdUoPE9eJrLODFpquj_IJ5JBow=w512-rw"
             alt="" width="320" height="380">
           <h5> Hakkasan </h5>
-          <h6><img src="/Imgs/icons/map-pin-line.png" alt=""> Mumbai, India</h6>
-          <div class="ratings"> <img src="/Imgs/icons/rating=4.png" alt=""></div>
+          <h6><img src="Imgs/icons/map-pin-line.png" alt=""> Mumbai, India</h6>
+          <div class="ratings"> <img src="/form/icons/rating=4.png" alt=""></div>
         </div>
         <!-- card 8 -->
         <div class="hotel-cards off">
@@ -250,8 +250,8 @@
             src="https://www.xoprivate.com/wp-content/uploads/2020/03/Umaid-Bhawan-Palace-India-Jodhpur-Maharani-Suite-Balcony1.jpg"
             alt="" width="320" height="380">
           <h5>Umaid Bhawan Palace</h5>
-          <h6><img src="/Imgs/icons/map-pin-line.png" alt=""> Jodhpur, India</h6>
-          <div class="ratings"> <img src="/Imgs/icons/rating=5.png" alt=""></div>
+          <h6><img src="Imgs/icons/map-pin-line.png" alt=""> Jodhpur, India</h6>
+          <div class="ratings"> <img src="/form/icons/rating=5.png" alt=""></div>
         </div>
 
       </div>
@@ -263,7 +263,7 @@
     <div class="container">
       <div class="title-container">
         <h2 class="section-title"> Travel Tips and Advice</h2>
-        <div class="section-button hotel-button">view all <img src="/Imgs/icons/bleft.png" alt=""></div>
+        <div class="section-button hotel-button">view all <img src="/form/icons/bleft.png" alt=""></div>
       </div>
       <div class="tours-cards">
 
@@ -283,8 +283,8 @@
                 great floppy straw hat. </p>
             </div>
             <div class="tours-card-content-icons">
-              <h6><img src="/Imgs/icons/calendersml.png" alt=""> Today</h6>
-              <h6><img src="/Imgs/icons/message.png" alt=""> 2</h6>
+              <h6><img src="/form/icons/calendersml.png" alt=""> Today</h6>
+              <h6><img src="/form/icons/message.png" alt=""> 2</h6>
             </div>
           </div>
         </div>
@@ -303,8 +303,8 @@
                 from there you get to ride the camels or a jeep safari to reach the place where your camps are set. </p>
             </div>
             <div class="tours-card-content-icons">
-              <h6><img src="/Imgs/icons/calendersml.png" alt=""> Today</h6>
-              <h6><img src="/Imgs/icons/message.png" alt="">12</h6>
+              <h6><img src="/form/icons/calendersml.png" alt=""> Today</h6>
+              <h6><img src="/form/icons/message.png" alt="">12</h6>
             </div>
           </div>
         </div>
@@ -317,7 +317,7 @@
     <div class="container">
       <div class="title-container">
         <h2 class="section-title"> Activities</h2>
-        <div class="section-button hotel-button">view all <img src="/Imgs/icons/bleft.png" alt=""></div>
+        <div class="section-button hotel-button">view all <img src="/form/icons/bleft.png" alt=""></div>
       </div>
 
       <!-- Activities Cards -->
@@ -369,11 +369,11 @@
         the Hymenaean projects.
       </p>
 
-      <div class="section-button hotel-button">Read More <img src="/Imgs/icons/bleft.png" alt=""></div>
+      <div class="section-button hotel-button">Read More <img src="/form/icons/bleft.png" alt=""></div>
     </div>
 
     <div class="about-img">
-      <img src="/Imgs/about img.png" alt="" width="556" height="488">
+      <img src="/form/about img.png" alt="" width="556" height="488">
     </div>
   </section>
 
@@ -382,16 +382,16 @@
     <div class="container">
       <div class="footer-sections">
         <div class="footer-section">
-          <img src="/Imgs/Logo/logoblack.svg" alt="">
+          <img src="/form/Logo/logoblack.svg" alt="">
           <p>We always make our customers happy by providing as many choises as possible</p>
           <div class="footer-social-icons">
-            <a href="https://m.facebook.com/profile.php?id=100013631289173"><img src="/Imgs/icons/facebook.png"
+            <a href="https://m.facebook.com/profile.php?id=100013631289173"><img src="/form/icons/facebook.png"
                 alt="facebook"></a>
             <a href="https://twitter.com/Harshbhargava34?t=nkRNPuq3Ya-Fq3xN3OAKBQ&s=08"><img
-                src="/Imgs/icons/twitter.png" alt="twitter"></a>
-            <a href="https://www.instagram.com/divyanshu_1807gupta/"><img src="/Imgs/icons/instagram.png"
+                src="/form/icons/twitter.png" alt="twitter"></a>
+            <a href="https://www.instagram.com/divyanshu_1807gupta/"><img src="/form/icons/instagram.png"
                 alt="instagram"></a>
-            <a href="https://www.linkedin.com/in/hardik-singh-4ba371240"><img src="/Imgs/icons/linkedin.png"
+            <a href="https://www.linkedin.com/in/hardik-singh-4ba371240"><img src="/form/icons/linkedin.png"
                 alt="linkedin"></a>
           </div>
         </div>
@@ -405,14 +405,14 @@
         </div>
         <div class="footer-section">
           <h3>Enter your Query</h3>
-          <form action="php/action.php">
+          <form action="form.php">
             <div class="form-section">
-              <img src="/Imgs/icons/messagefooter.png" alt="">
+              <img src="/form/icons/messagefooter.png" alt="">
               <label for="email"> Your Email
                 <input type="email" id="email" name="email" placeholder="exp - abc@gmail.com ">
               </label>
             </div>
-            <button type="submit"><img src="/Imgs/icons/arrowleft.png" alt=""></button>
+            <button type="submit"><img src="/form/icons/arrowleft.png" alt=""></button>
           </form>
         </div>
       </div>
