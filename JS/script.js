@@ -44,10 +44,10 @@ const swiper = new Swiper('.swiper1', {
       x.classList.toggle('on');
     });
   
-    if (e.target.innerHTML !== 'less <img src="/form/icons/bleft.png">') {
-      e.target.innerHTML = `less <img src="/form/icons/bleft.png" >`;
+    if (e.target.innerHTML !== 'less <img src="/Imgs/icons/bleft.png">') {
+      e.target.innerHTML = `less <img src="/Imgs/icons/bleft.png" >`;
     } else {
-      e.target.innerHTML = `view all <img src="/form/icons/bleft.png" >`;
+      e.target.innerHTML = `view all <img src="/Imgs/icons/bleft.png" >`;
     }
   });
   
